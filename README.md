@@ -34,11 +34,11 @@ I believe in discipline, consistency, and writing clean efficient code.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=github_dark&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=sachin0249&theme=github-dark-blue&hide_border=true"/>
 </p>
 
 ---
@@ -46,7 +46,7 @@ I believe in discipline, consistency, and writing clean efficient code.
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sachin0249&theme=react-dark&hide_border=true"/>
 </p>
 
 ---
