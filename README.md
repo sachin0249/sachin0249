@@ -103,6 +103,14 @@ I believe in **discipline, consistency, and writing clean efficient code.**
 
 ---
 
+# 🧠 LeetCode Stats
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/sachin0249?theme=dark&font=Baloo"/>
+</p>
+
+---
+
 # 📈 Contribution Activity
 
 <p align="center">
@@ -111,6 +119,15 @@ I believe in **discipline, consistency, and writing clean efficient code.**
 
 ---
 
+# ⚡ AI Developer Mode
+
+```diff id="r7v8j9"
++ Name        : Sachin Ravji
++ Role        : Full Stack Developer
++ Focus       : AI + Web Development
++ Location    : Pune, India
++ Status      : Building Future Tech
+```
 # 💬 Developer Quote
 
 <p align="center">
