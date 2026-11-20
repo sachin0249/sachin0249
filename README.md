@@ -1,11 +1,11 @@
 <!-- 🔥 Cyber Header Banner -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f2027&height=220&section=header&text=Sachin%20Ravji&fontSize=50&fontColor=00ffc3&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f2027&height=220&section=header&text=SACHIN%20RAVJI&fontSize=50&fontColor=00ffc3&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00FFC3&size=24&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;AI+Explorer;Cybersecurity+Learner;Hackathon+Builder;Future+Software+Engineer"/>
+<img src="https://readme-typing-svg.herokuapp.com?color=00FFC3&size=24&center=true&vCenter=true&width=650&lines=Data+Engineer;AI+Explorer;AI+ML+Engineer;Data+Pipeline+Builder;Software+Engineer"/>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 ---
 
 <h2 align="center">⚡ Hi, I'm Sachin 👋</h2>
-<h3 align="center">Full Stack Developer • AI Explorer • Cybersecurity Learner</h3>
+<h3 align="center">Data Engineer • AI Explorer • Cybersecurity Enthusiast</h3>
 
 ---
 
@@ -27,8 +27,8 @@
 
 🎓 **B.Tech IT Student (2024–2028)**
 📍 Based in **Pune | From Solapur**
-🚀 Hackathon Enthusiast & Problem Solver
-💡 Passionate about **building scalable real-world applications**
+🚀 **Cybersecurity Enthusiast & Problem Solver**
+💡 Passionate about **building scalable real-world applications and data pipelines**
 
 I believe in **discipline, consistency, and writing clean efficient code.**
 
